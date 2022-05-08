@@ -1,0 +1,31 @@
+ {
+ "events": [
+        {
+          id: 5928101,
+          category: 'Animal Welfare 1',
+          title: 'cat adoption day 1',
+          description: 'Find your new and smart cat here with cheap price',
+          location: 'Punjab Pakistan',
+          date: 'May 08, 2022',
+          time: '12:00'
+        },
+        {
+          id: 5928102,
+          category: 'Animal Welfare 2',
+          title: 'cat adoption day 2',
+          description: 'Find your new and smart cat here with cheap price',
+          location: 'Punjab Pakistan',
+          date: 'May 08, 2022',
+          time: '12:00'
+        },
+        {
+          id: 5928103,
+          category: 'Animal Welfare 3',
+          title: 'cat adoption day 3',
+          description: 'Find your new and smart cat here with cheap price',
+          location: 'Punjab Pakistan',
+          date: 'May 08, 2022',
+          time: '12:00'
+        }
+      ]
+    }
